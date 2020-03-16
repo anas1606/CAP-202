@@ -1,0 +1,18 @@
+WAP to arrange the array like
+input 
+a[5]={1,2,3,4,5}
+output
+a[5]= 1 5 2 4 3
+
+a[0]: small value 
+a[1]: max value
+a[2]: small value from rest of element
+a[3]: max value from rest of element
+a[4]: small value from rest of element
+
+another example:
+input:
+a[6]={1,2,3,4,5,6}
+
+output:
+a[6]= 1 6 2 5 3 4
